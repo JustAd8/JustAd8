@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Aaditya Ajit Singh .
-- 👀 I’m interested in programing languages like java, javascript, c++, and full stack devlopment in general.
-- 🌱 I’m currently learning java , C++, and php with some cloud computing basics ,etc.
-- ]7\\7/- really excited to fetch experienced professionals as a freher of this field with some bacic kowledge and improvig it over the cource of time..
-- 💞️ I’m looking to collaborate on the similar as well as looking forwerd to expand my avanue to other domain like cloud computing, data science, and opensource contribution.
-- 📫 How to reach me- you can look me up on email(aadityasbi159700@gmail.com)
-- ⚡ Fun fact: I do workout sometimes and I do touch grass.
+🚀 Aspiring Full Stack Developer | 📍 Mumbai, India
+🎓 Currently a student passionate about building impactful, scalable solutions through technology. I believe in working on projects that have the potential to make a real difference in people’s lives.
 
-<!---
-JustAd8/JustAd8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech Stack:
+Frontend: HTML5, CSS3, JavaScript, React.js, Bootstrap,
+Backend: Node.js, Express.js, PHP
+Database: MongoDB, MySQL
+Tools & Platforms: Git, GitHub, AWS, VS Code, Postman
+looking forward to learn even more.
+
+🌱 Constantly learning, evolving, and seeking opportunities to collaborate on open-source and impactful projects.
+
+🎯 Career Goal: To work with innovative teams and visionary companies in the tech space, contributing to cutting-edge products and services.
+
+🛠️ Always open for project collaborations and internships. Let’s build something meaningful together!
+
