@@ -2,9 +2,8 @@
 - 👀 I’m interested in programing languages like java, javascript, c++, and full stack devlopment in general.
 - 🌱 I’m currently learning java , C++, and php with some cloud computing basics ,etc.
 - ]7\\7/- really excited to fetch experienced professionals as a freher of this field with some bacic kowledge and improvig it over the cource of time..
-- 💞️ I’m looking to collaborate on the similar as well as looking forwerd to expand my avanue to other domain like cloud computing, data science, and machine learning, and some machine learning.
-- 📫 How to reach me- you can look me up on email(aadirjq100299@gmail.com) or contact me on my number-9403551356.
-- 😄 Pronouns: He/Him.
+- 💞️ I’m looking to collaborate on the similar as well as looking forwerd to expand my avanue to other domain like cloud computing, data science, and opensource contribution.
+- 📫 How to reach me- you can look me up on email(aadityasbi159700@gmail.com)
 - ⚡ Fun fact: I do workout sometimes and I do touch grass.
 
 <!---
